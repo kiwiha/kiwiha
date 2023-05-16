@@ -1,5 +1,5 @@
 <div align="center">
-    ![header](https://capsule-render.vercel.app/api?type=waving&color=0:6ACC91,100:6ACCA5&height=350&section=header&text=Welcome&fontSize=70&fontAlignY=45&textcolor=0&animation=fadeIn&fontColor=FFFFFF&desc=Haechan's%20github&descSize=25&descAlign=65&descAlignY=60)
+    <img src = "https://capsule-render.vercel.app/api?type=waving&color=0:6ACC91,100:6ACCA5&height=350&section=header&text=Welcome&fontSize=70&fontAlignY=45&textcolor=0&animation=fadeIn&fontColor=FFFFFF&desc=Haechan's%20github&descSize=25&descAlign=65&descAlignY=60)"/>
 </div>
 
 <div align="center">
@@ -21,9 +21,6 @@
 </div>
 
 
-
-![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=kiwiha)
-
 <div align="center">
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiwiha&show_icons=true&theme=radical)
+    <img src = "https://github-readme-stats.vercel.app/api?username=kiwiha&show_icons=true&theme=radical" />
 </div>
