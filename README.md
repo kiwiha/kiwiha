@@ -21,14 +21,14 @@
 </div>
 
 <div align="center">
-    <h3> 🔨  Languages 🔨  </h3>
+    <h3> 📢  Langueages 📢 </h3>
 </div>
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/dkssud8150/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
+<img src="https://raw.githubusercontent.com/dkssud8150/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
 </div>
 
 
 <div align="center">
-    <img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dkssud8150&theme=nord_dark" />
+    <img src = "http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kiwiha&theme=github_dark&exclude={exclude}" />
 </div>
