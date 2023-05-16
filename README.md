@@ -1,5 +1,5 @@
 <div align="center">
-    <img src = "https://capsule-render.vercel.app/api?type=waving&color=0:6ACC91,100:6ACCA5&height=350&section=header&text=Welcome&fontSize=70&fontAlignY=45&textcolor=0&animation=fadeIn&fontColor=FFFFFF&desc=Haechan's%20github&descSize=25&descAlign=65&descAlignY=60"/>
+    <img src = "https://capsule-render.vercel.app/api?type=waving&color=0:6ACC91,100:6ACCA5&height=350&section=header&text=Welcome&fontSize=70&fontAlignY=45&textcolor=0&animation=fadeIn&fontColor=FFFFFF&desc=Haechan's%20github&descSize=25&descAlign=65&descAlignY=60)"/>
 </div>
 
 <div align="center">
@@ -18,6 +18,16 @@
 <div align="center">
     <img src="https://img.shields.io/badge/hc9679@gmail.com-3EB0FF?style=for-the-badge&logo=Gmail&logoColor=black">
     <img src="https://img.shields.io/badge/hc9679@naver.com-7EC674?style=for-the-badge&logo=Naver&logoColor=black">
+</div>
+
+<div align="center">
+    <h3> 🔨  Stack 🔨  </h3>
+</div>
+
+<div align="center">
+    <img src="https://img.shields.io/badge/JAVA-7EC674?style=for-the-badge&logo=JAVA&logoColor=black">
+    <img src="https://img.shields.io/badge/C-3E6296?style=for-the-badge&logo=C&logoColor=black">
+    <img src="https://img.shields.io/badge/C++-3E6296?style=for-the-badge&logo=C++&logoColor=black">
 </div>
 
 
