@@ -33,8 +33,8 @@
 </div>
 
 <div align="center">
-    <img src = "http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kiwiha&theme=github_dark&exclude=java,python" />
-    <img src = "http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kiwiha&theme=github_dark&exclude=java,python" />
+    <img src = "http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kiwiha&theme=github_dark&exclude=java,rust" />
+    <img src = "http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kiwiha&theme=github_dark&exclude=java,rust" />
     <img src = "http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kiwiha&theme=github_dark" />
     <img src = "http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kiwiha&theme=github_dark&utcOffset=9" />
 </div>
