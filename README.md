@@ -32,9 +32,9 @@
 <div align="center">
     <img src = "http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kiwiha&theme=github_dark&exclude={exclude}" />
     <img src = "http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kiwiha&theme=github_dark" />
-    <img src = "http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kiwiha&theme=github_dark&utcOffset=Asia/Seoul"
+    <img src = "http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kiwiha&theme=github_dark&utcOffset=8"
 </div>
 
 <div align = "center">
-    <imsg src = "http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kiwiha&theme=github_dark"
+    <img src = "http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kiwiha&theme=github_dark"/>
 </div>
