@@ -25,7 +25,18 @@
 </div>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/dkssud8150/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
+    <img src="https://raw.githubusercontent.com/dkssud8150/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
+</div>
+
+<div align="center">
+    <h3> 🔨 Tools ( Platforms ) 🔨 </h3>
+</div>
+
+<div align="center">
+    <img src="https://img.shields.io/badge/Eclipse-FFB759?style=for-the-badge&logo=Eclipse IDE&logoColor=black" />
+    <img src="https://img.shields.io/badge/Android%20Studio-535759?style=for-the-badge&logo=Android Studio&logoColor=black" />
+    <img src="https://img.shields.io/badge/p5.js-EF7DAD?style=for-the-badge&logo=p5.js&logoColor=black" />
+    <img src="https://img.shields.io/badge/MySQL-5378AD?style=for-the-badge&logo=MySQL&logoColor=black" />
 </div>
 
 <div align = "center">
@@ -34,7 +45,7 @@
 
 <div align="center">
     <img src = "http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kiwiha&theme=github_dark" />
-    <img src = "http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kiwiha&theme=github_dark&exclude=Java,Eclipse" />
+    <img src = "http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kiwiha&theme=github_dark" />
     <img src = "http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kiwiha&theme=github_dark" />
     <img src = "http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kiwiha&theme=github_dark&utcOffset=9" />
 </div>
